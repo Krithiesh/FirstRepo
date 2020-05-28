@@ -1,1 +1,2 @@
 SELECT * FROM REPO.FIRSTTABLE;
+--Forgot to add comments. This is just a simple table.
